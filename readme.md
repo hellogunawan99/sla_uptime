@@ -1,0 +1,1 @@
+- ping_all.go (output ping 314 dalam 1 jam atau 11,4 detik per ping semua ip)
